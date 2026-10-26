@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Marwa Al Shahal</h1>
-<h3 align="center">Full Stack Web Developer | MERN & LAMP Stack | Educator & Mentor | Lifelong Learne</h3>
+<h3 align="center">Full Stack Web Developer | MERN & LAMP Stack | Educator & Mentor | Lifelong Learner</h3>
 
 ---
 
